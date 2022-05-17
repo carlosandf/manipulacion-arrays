@@ -39,5 +39,5 @@ const products = [
 const rta3 = products.find(item => item.id === '🍔');
 console.log('find', rta3);
 
-const rta4 = products.findIndex(item => itemid === '🍔,'';
+const rta4 = products.findIndex(item => item.id === '🍔');
 console.log('findIndex', rta4);
